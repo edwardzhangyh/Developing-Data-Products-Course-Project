@@ -32,7 +32,7 @@ shinyUI(fluidPage(
                           
                           3 the car's transmission types
                           
-                          The function used to make the prediction is based on a regression analysis result about data frame "mtcars" in R"), 
+                          The function used to make the prediction is based on a regression analysis result about data frame mtcars in R"), 
                          
                         h3("User Instruction"), 
                         
